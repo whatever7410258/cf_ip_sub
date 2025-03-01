@@ -1,5 +1,9 @@
 更新：  
-跟大善人斗智斗勇太烦了，不搞了，分享从某论坛转的订阅链接，应该是长期有效吧：  https://sub.7410258.xyz/sub?source=linux.do   
+跟大善人斗智斗勇太烦了，不搞了，分享从某论坛转换之后的订阅链接，应该是长期有效吧：  
+https://sub.7410258.xyz/sub?source=linux.do.oracle&type=clash   
+https://sub.7410258.xyz/sub?source=linux.do.oracle&type=v2rayn   
+https://sub.7410258.xyz/sub?source=linux.do.coldarea&type=clash   
+https://sub.7410258.xyz/sub?source=linux.do.coldarea&type=v2rayn   
 
 原仓库:   
 https://github.com/1304756868/cf_ip_sub    
